@@ -190,14 +190,14 @@
 
 // question 7
 
-let time = +prompt(`enter your current time`);
-if (time >= 0000 && time < 1200){
-    document.write(`Good Morning Sir`)
+// let time = +prompt(`enter your current time`);
+// if (time >= 0000 && time < 1200){
+//     document.write(`Good Morning Sir`)
 
-}
-else if(time >= 1201 && time < 2359){
-    document.write(`Good Night Sir`)
-}
+// }
+// else if(time >= 1201 && time < 2359){
+//     document.write(`Good Night Sir`)
+// }
 
 
 
